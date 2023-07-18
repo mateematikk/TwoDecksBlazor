@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDecksBlazor", "TwoDecksBlazor\TwoDecksBlazor.csproj", "{276A5442-5251-479E-A7F6-1E9E29E1ECDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276A5442-5251-479E-A7F6-1E9E29E1ECDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276A5442-5251-479E-A7F6-1E9E29E1ECDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276A5442-5251-479E-A7F6-1E9E29E1ECDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276A5442-5251-479E-A7F6-1E9E29E1ECDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A90A85E-FD4A-41AB-9ECE-9C7E4CD46C70}
+	EndGlobalSection
+EndGlobal
